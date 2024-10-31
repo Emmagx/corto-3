@@ -1,0 +1,43 @@
+Brayan Emanuel Garcia:
++502 49564382 | emmagx.dev@gmail.com | 27 av. 3-161 z. 13, San Miguel Petapa, Guatemala | Github: 
+Emmagx 
+Formación 
+PERITO TECNICO ELECTRONICO | 2021 | INSTITUTO TECNICO VOCACIONAL DR. IMRICH 
+FISCHMANN 
+• Área general de estudio: Electrónica General. 
+• Trabajo de curso relacionado: Creación de un vehículo con base Arduino controlado de manera 
+remota. 
+BACHILLER INDUSTRIAL | 2021 | INSTITUTO TECNICO VOCACIONAL DR. IMRICH FISCHMANN 
+• Área general de estudio: Ciencias Generales a nivel medio. 
+INGENIERIA EN CIENCIAS Y SISTEMAS | 2023-ACTUALIDAD | UNIVERSIDAD DE SAN CARLOS DE 
+GUATEMALA 
+• Área general de estudio: Ciencias de la computación. 
+Experiencia 
+TECNICO ELECTRONICO | BITMEC GUATEMALA S.A | 11/2021 – 12/2022 
+• Debuggin de placas de desarrollo “Rapidoc”, optimización de procesos, ensamblaje y soldadura en 
+placas electrónicas, revisión de código Arduino. 
+OPERADOR EN NETWORK OPERATION CENTER | BITMEC GUATEMALA S.A | 12/2022 – 08/2024 
+• Uso de conexiones ssh para controlar maquinas remotas y solucionar inconvenientes de software. 
+Uso de Ubuntu como sistema operativo principal, optimización en procesos de respuesta a posibles 
+problemas con el software en general de los equipos de cómputo y de código. Revisión de código para 
+sugerir mejoras en Python y JavaScript o agregación de funcionalidades. Servicio técnico remoto. 
+Tecnologías/Lenguajes de programación 
+C++: 
+• En entornos Arduino IDE para programar diferentes placas de desarrollo, como toda la familia de 
+Arduino y la placa de desarrollo ESP32 
+PYTHON 
+• Creación de Scripts sencillos para optimizar procesos y descarga de recursos. Uso del framework  
+ansible para múltiples usos en diferentes maquinas remotas conectadas por conexión SSH. 
+JAVA-SCRIPT 
+• Funcionalidades dentro de paginas web con HTML y CSS, creación de bots para telegram y Discord. 
+JAVA 
+• Login, Interfaces de usuario, Optimización de Código 
+BASH 
+• Scripting para evitar la memorización de comandos y automatización de procesos. 
+Tecnologías Secundarias 
+• React (JS) 
+• Ansible (Python) 
+• Bootstrap 
+• Ubuntu 22.04 
+Aptitudes extra 
+• Idioma ingles: Nivel medio B2 
